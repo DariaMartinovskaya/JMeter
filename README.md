@@ -6,4 +6,4 @@ The Apache JMeter is an open-source, purely Java-based software. JMeter is used 
 
 #### Here are results of testing using JMeter:
 
-Summary reports resulted from loads of 50, 250, 500 threads: <a href="https://github.com/DariaMartinovskaya/JMeter/blob/main/HW_Jmeter_Summary_Report_50.csv">50 threads</a>, <a href="https://github.com/DariaMartinovskaya/JMeter/blob/main/HW_Jmeter_Summary_Report_250.csv">250 threads</a>, <a href="https://github.com/DariaMartinovskaya/JMeter/blob/main/HW_Jmeter_Summary_Report_500.csv">500 threads</a>
+Summary reports resulted from loads of 50, 250, 500 threads: <a href="https://github.com/DariaMartinovskaya/JMeter/blob/main/HW_Jmeter_Summary_Report_50.csv">50 threads</a>, <a href="https://github.com/DariaMartinovskaya/JMeter/blob/main/HW_Jmeter_Summary_Report_250.csv">250 threads</a>, <a href="https://github.com/DariaMartinovskaya/JMeter/blob/main/HW_Jmeter_Summary_Report_500.csv">500 threads</a>.
