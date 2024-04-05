@@ -4,4 +4,4 @@ The Apache JMeter is an open-source, purely Java-based software. JMeter is used 
 
 <a href="https://jmeter.apache.org/download_jmeter.cgi" target="_blank">Link</a> to download JMeter.
 
-#### Here are results of ToDoList mobile app testing using Android studio emulator:
+#### Here are results of testing using JMeter:
